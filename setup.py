@@ -23,7 +23,7 @@ CLASSIFIERS = [
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
 ]
-INSTALL_REQUIRES = ["tensorflow-probability", "numpyro", "jax<=0.2.20"]
+INSTALL_REQUIRES = ["tensorflow-probability", "numpyro", "jax"]
 EXTRA_REQUIRE = {
     "test": ["pytest>=3.6"],
 }
